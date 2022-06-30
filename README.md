@@ -1,6 +1,7 @@
 # MagneTicFocuser
 DIY focuser for astrophotography with a magnetic flange
-![This is an image](https://github.com/LionBit76/MagneTicFocuser/blob/main/imgages/MagneTicFocuser_PG27.png)
+
+![This is an image](https://github.com/LionBit76/MagneTicFocuser/blob/main/images/MagneTicFocuser_PG27.png)
 
 BOM [MagneTicFocuser]:
      4x M3x6 for fastening the geared motor
