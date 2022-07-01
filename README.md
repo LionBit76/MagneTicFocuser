@@ -23,4 +23,13 @@ This focuser is for astrophotography with the INDI driver TicFocuser-ng https://
 - Superglue to stick the magnets in place
 
 
+
+### MagneTicFocuser and Explore Scientific ED80:
+![This is an image](https://github.com/LionBit76/MagneTicFocuser/blob/main/images/MagneTicFocuser.jpg)
+
+### MagneTicFocuser mounted on Explore Scientific ED80:
+![This is an image](https://github.com/LionBit76/MagneTicFocuser/blob/main/images/MagneTicFocuser_mounted.jpg)
+
+
+
 This project started on 2022-06-25 and it is still under development...
