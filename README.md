@@ -22,3 +22,5 @@ This focuser is for astrophotography with the INDI driver TicFocuser-ng https://
 - 4x melt-down nuts M3 5x6 (I have the VORON compatible melt-down nuts)
 - Superglue to stick the magnets in place
 
+
+This project started on 2022-06-25 and it is still under development...
