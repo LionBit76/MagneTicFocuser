@@ -1,5 +1,6 @@
 # MagneTicFocuser
 DIY focuser for astrophotography with a magnetic flange
+
 My Blogpost (german): https://astrophoto.lionbit.com/3d-druck/22-magneticfocuser
 
 ![This is an image](https://github.com/LionBit76/MagneTicFocuser/blob/main/images/MagneTicFocuser_PG27.png)
