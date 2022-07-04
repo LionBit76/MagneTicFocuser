@@ -22,7 +22,10 @@ This focuser is for astrophotography with the INDI driver TicFocuser-ng https://
 - 4x melt-down nuts M3 5x6 (I have the VORON compatible melt-down nuts)
 - Superglue to stick the magnets in place
 
-
+### Motor settings:
+My settings in the Tic Software for the stepper motor are:
+- 1mA (yes, it works!)
+- 8 microsteps (for maximum resolution and less vibrations on accel/deccel)
 
 ### MagneTicFocuser and Explore Scientific ED80:
 ![This is an image](https://github.com/LionBit76/MagneTicFocuser/blob/main/images/MagneTicFocuser.jpg)
