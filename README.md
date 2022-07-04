@@ -21,6 +21,7 @@ This focuser is for astrophotography with the INDI driver TicFocuser-ng https://
 - 1x barrel connector socket 5.5x2.1 for 12V DC
 - 4x heatset inserts M3 5x6 (I have the VORON compatible heatset inserts)
 - Superglue to stick the magnets in place
+- JST connectors 4-pin for stepper, 2-pin for 12v
 
 ### Motor settings:
 My settings in the Tic Software for the stepper motor are:
