@@ -19,7 +19,7 @@ This focuser is for astrophotography with the INDI driver TicFocuser-ng https://
 - 2x M4x10 grub screw for the clutch
 - 4 N54 neodymium magnets 9x5 (4 more for the flange on the telescope)
 - 1x barrel connector socket 5.5x2.1 for 12V DC
-- 4x melt-down nuts M3 5x6 (I have the VORON compatible melt-down nuts)
+- 4x heatset inserts M3 5x6 (I have the VORON compatible heatset inserts)
 - Superglue to stick the magnets in place
 
 ### Motor settings:
