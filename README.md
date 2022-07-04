@@ -24,8 +24,10 @@ This focuser is for astrophotography with the INDI driver TicFocuser-ng https://
 
 ### Motor settings:
 My settings in the Tic Software for the stepper motor are:
-- 1mA (yes, it works!)
-- 8 microsteps (for maximum resolution and less vibrations on accel/deccel)
+- Current limit: 1mA (yes, it works!)
+- Step mode: 1/8 step (for maximum resolution and less vibrations on accel/deccel)
+- Max speed: 8000000
+- Max accel: 80000
 
 ### MagneTicFocuser and Explore Scientific ED80:
 ![This is an image](https://github.com/LionBit76/MagneTicFocuser/blob/main/images/MagneTicFocuser.jpg)
