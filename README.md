@@ -1,7 +1,7 @@
 # MagneTicFocuser
 DIY focuser for astrophotography with a magnetic flange
 
-My Blogpost (german): https://astrophoto.lionbit.com/3d-druck/22-magneticfocuser
+My Blogpost with more details (german): https://astrophoto.lionbit.com/3d-druck/22-magneticfocuser
 
 ![This is an image](https://github.com/LionBit76/MagneTicFocuser/blob/main/images/MagneTicFocuser_PG27.png)
 
@@ -36,6 +36,7 @@ My settings in the Tic Software for the stepper motor are:
 ### MagneTicFocuser mounted on Explore Scientific ED80:
 ![This is an image](https://github.com/LionBit76/MagneTicFocuser/blob/main/images/MagneTicFocuser_mounted.jpg)
 
+### My Rig:
+![This is an image](https://github.com/LionBit76/MagneTicFocuser/blob/main/images/rig.jpg)
 
 
-This project started on 2022-06-25 and it is still under development...
