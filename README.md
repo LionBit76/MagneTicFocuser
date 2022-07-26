@@ -39,4 +39,6 @@ My settings in the Tic Software for the stepper motor are:
 ### My Rig:
 ![This is an image](https://github.com/LionBit76/MagneTicFocuser/blob/main/images/rig.jpg)
 
-
+### MTF to EAF Adapter:
+![This is an image](https://github.com/LionBit76/MagneTicFocuser/blob/main/images/MTF_EAF_Adapter.jpg)
+If you have an ZWO EAF, you can adapt it to the MTF (MagneTicFocuser) System
