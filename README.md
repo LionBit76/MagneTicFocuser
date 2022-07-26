@@ -36,6 +36,10 @@ My settings in the Tic Software for the stepper motor are:
 ### MagneTicFocuser mounted on Explore Scientific ED80:
 ![This is an image](https://github.com/LionBit76/MagneTicFocuser/blob/main/images/MagneTicFocuser_mounted.jpg)
 
+### MagneTicFocuser mounted on a Newton with Baader BDS-NT Focuser:
+![This is an image](https://github.com/LionBit76/MagneTicFocuser/blob/main/images/Newton_MTF_1.jpg)
+![This is an image](https://github.com/LionBit76/MagneTicFocuser/blob/main/images/Newton_MTF_2.jpg)
+
 ### My Rig:
 ![This is an image](https://github.com/LionBit76/MagneTicFocuser/blob/main/images/rig.jpg)
 
