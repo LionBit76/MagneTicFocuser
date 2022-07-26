@@ -1,4 +1,4 @@
-# MagneTicFocuser
+# MagneTicFocuser [MTF]
 DIY focuser for astrophotography with a magnetic flange
 
 My Blogpost with more details (german): https://astrophoto.lionbit.com/3d-druck/22-magneticfocuser
